@@ -1,0 +1,6 @@
+path : C:/ACPS/Data
+train : C:/ACPS/data/train/images
+val : C:/ACPS/data/valid/images
+
+nc : 1
+names :  ['TomatoLeaf']
